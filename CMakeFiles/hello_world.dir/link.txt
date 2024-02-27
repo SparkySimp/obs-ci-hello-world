@@ -1,0 +1,1 @@
+/usr/bin/clang -rdynamic CMakeFiles/hello_world.dir/src/hello.c.o -o hello_world 
